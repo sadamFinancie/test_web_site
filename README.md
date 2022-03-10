@@ -15,6 +15,19 @@ new 3
 https://qa.financie.jp/users/ga98c5f16ee1743a692c2815276a66338/projects/52/closed/8371695fdc7f4fb29cb76a52ed5d38ff
 
 
+for splash 1 : 
+
+https://financie.jp
+
+
+for splash 2 : 
+
+https://qa.financie.jp
+
+
+for splash 1 : 
+https://financie.jp/communities/angkortigerfc
+
 
 
 
